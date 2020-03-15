@@ -1,0 +1,38 @@
+/* add your CSS here */
+#cutecat {
+    width: 300px;
+    height: 200px;
+    border: thin solid gray;
+    margin-bottom: 15px;
+}
+
+.catfact {
+    font-style: italic;
+}
+
+/* span {
+    font-weight: bold;
+}*/
+
+.bold {
+    font-weight: bold;
+}
+
+li, ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+.card, .information {
+    border-style: solid;
+    border-color: gray;
+    border-width: thin;
+    padding: 20px;
+    padding-top:10px;
+}
+
+.card {
+    box-shadow: 5px 10px gray;
+    width: 300px;
+    font-size: large;
+}
