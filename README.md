@@ -2,7 +2,7 @@
 Project Instructions
 Review the Animal Trading Cards project rubric.
 
-- 1)Download and unzip animal-trading-cards-master.zip. Inside, you'll find card.html, styles.css, placeholder.png,
+- 1) Download and unzip animal-trading-cards-master.zip. Inside, you'll find card.html, styles.css, placeholder.png,
 and the design-prototype.png. 
 
 - 2)Next, open card.html and replace the placeholder image and information with your favorite animal's image and information.
