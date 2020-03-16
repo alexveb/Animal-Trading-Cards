@@ -2,7 +2,7 @@
 Project Instructions
 Review the Animal Trading Cards project rubric.
 
-- 1) Download and unzip animal-trading-cards-master.zip. Inside, you'll find card.html, styles.css, placeholder.png,
+- 1)Download and unzip animal-trading-cards-master.zip. Inside, you'll find card.html, styles.css, placeholder.png,
 and the design-prototype.png. 
 
 - 2)Next, open card.html and replace the placeholder image and information with your favorite animal's image and information.
@@ -11,7 +11,7 @@ to 300 pixels in your CSS, but be aware that your image might end up squished or
 about how you can fix this problem using responsive images. Also, don't forget to change the image's alt attribute to the name of 
 your animal. So, alt="name-of-your-animal" should be replaced with the actual name of your animal.
 
-- 3) Once you've added your favorite animal's image and information, add the proper CSS to styles.css to recreate the design-prototype.png by applying the style rules in step 4. You’ll need to modify card.html to include attributes and use selectors to specify the elements you want to style. Also, make sure to link to your stylesheet in card.html or else your CSS will not be applied to your webpage.
+- 3)Once you've added your favorite animal's image and information, add the proper CSS to styles.css to recreate the design-prototype.png by applying the style rules in step 4. You’ll need to modify card.html to include attributes and use selectors to specify the elements you want to style. Also, make sure to link to your stylesheet in card.html or else your CSS will not be applied to your webpage.
 
 - 4)The CSS should apply these styles to match the design prototype:
         -italicized text for the animal's interesting fact
